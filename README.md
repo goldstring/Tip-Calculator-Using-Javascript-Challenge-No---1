@@ -10,7 +10,7 @@ A simple **Tip Calculator** built using HTML, CSS, and JavaScript to quickly cal
 - Simple and responsive UI.
 
 ## 🖥️ Live Demo
-[Click Here to View](#) (Replace with your GitHub Pages link)
+<a href="https://goldstring.github.io/Tip-Calculator-Using-Javascript-Challenge-No---1/">Click Here For Live Demo</a>
 
 ## 🛠️ Technologies Used
 - HTML
